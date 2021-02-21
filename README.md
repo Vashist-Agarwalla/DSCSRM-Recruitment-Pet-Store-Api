@@ -7,7 +7,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 ## Pre - Requirement 
 
 - Command Promt / Terminal
-- MongoDB Atlas
+- MongoDB Atlas Account
 - Postman
 
 ## Initialising
