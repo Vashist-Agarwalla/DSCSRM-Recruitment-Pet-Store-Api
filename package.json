@@ -1,0 +1,23 @@
+{
+  "name": "pet-store-api",
+  "version": "1.0.0",
+  "description": "Technical Task (DSCSRM Recruitment)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vashist-Agarwalla/DSCSRM-Recruitment-Pet-Store-Api.git"
+  },
+  "author": "Vashist Agarwalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vashist-Agarwalla/DSCSRM-Recruitment-Pet-Store-Api/issues"
+  },
+  "homepage": "https://github.com/Vashist-Agarwalla/DSCSRM-Recruitment-Pet-Store-Api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4"
+  }
+}
