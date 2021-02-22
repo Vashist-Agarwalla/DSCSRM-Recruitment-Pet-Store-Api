@@ -105,7 +105,6 @@ testFunction().then(() => {
 //  Get list of all owners.
 
 // MongoDB Atlas is going to be used
-// mongodb+srv://Vashist:Vashist@cluster0.hfw0t.mongodb.net/DSCSRM
 
 //--------------------------
 //| Sample data set:        |
