@@ -106,3 +106,12 @@ testFunction().then(() => {
 
 // MongoDB Atlas is going to be used
 // mongodb+srv://Vashist:Vashist@cluster0.hfw0t.mongodb.net/DSCSRM
+
+//--------------------------
+//| Sample data set:        |
+//|      petName: "Tina"    |
+//|      owner: "Vashist"   |
+//|      petAge: 9          |   
+//|      type: "dog"        |
+//|      gender: "Female"   |
+//--------------------------
