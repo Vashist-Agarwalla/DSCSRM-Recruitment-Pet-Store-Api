@@ -15,7 +15,7 @@ This project involves reading database and processing its data to perform variou
 1.  `npm i`
 2. `MONGO=<mongodb link> node index.js`
 
-### Get all pets
+### Get All Pets
 
 `GET` `http://localhost:3030/`
 
@@ -49,3 +49,6 @@ This project involves reading database and processing its data to perform variou
 
 
 ## Example
+
+1. Get All Pets
+![](pic/1.Get-all-pets.png)
