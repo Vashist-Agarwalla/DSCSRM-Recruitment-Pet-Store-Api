@@ -48,28 +48,28 @@ This project involves reading database and processing its data to perform variou
 `GET` `http://localhost:3030/all`
 
 
-## Example
+## Example (Screenshots)
 
 1. Get All Pets
 ![](pic/1.Get-all-pets.png)
 
-2.Get A Single Pet
+2. Get A Single Pet
 ![](pic/2.Get-a-single-pet.png)
 
-3.Create A New Pet
+3. Create A New Pet
 ![](pic/3.Create-a-new-pet.png)
 
-4.Update Existing Pet
+4. Update Existing Pet
 ![](pic/4.Update-existing-pet.png)
 
-5.Delete A Pet
+5. Delete A Pet
 ![](pic/5.Delete-a-pet.png)
 
-6.Get Pets Of An Owner
+6. Get Pets Of An Owner
 ![](pic/6.Get-pets-of-an-owner.png)
 
-7.Get Owner Of A Pet
+7. Get Owner Of A Pet
 ![](pic/7.Get-owner-of-a-pet.png)
 
-8.Get List Of All Owners
+8. Get List Of All Owners
 ![](pic/8.Get-list-of-all-owners.png)
