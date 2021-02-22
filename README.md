@@ -48,7 +48,7 @@ This project involves reading database and processing its data to perform variou
 `GET` `http://localhost:3030/all`
 
 
-## Example (Screenshots)
+## Screenshots
 
 1. Get All Pets
 ![](pic/1.Get-all-pets.png)
