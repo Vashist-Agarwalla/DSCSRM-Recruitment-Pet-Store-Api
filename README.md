@@ -2,6 +2,8 @@
 
   *DSCSRM Recruitment Technical Task*
   
+  *Candidate ID: CAND3353*
+  
 This project involves reading database and processing its data to perform various actions.
 
 ## Pre - Requirement 
