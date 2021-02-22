@@ -19,31 +19,31 @@ This project involves reading database and processing its data to perform variou
 
 `GET` `http://localhost:3030/`
 
-### Get a single pet
+### Get A Single Pet
 
 `GET` `http://localhost:3030/pet/<PetName>`
 
-### Create a new pet
+### Create A New Pet
 
 `POST` `http://localhost:3030/`
 
-### Update existing pet
+### Update Existing Pet
 
 `PUT` `http://localhost:3030/`
 
-### Delete a pet
+### Delete A Pet
 
 `DELETE` `http://localhost:3030/`
 
-### Get pets of an owner
+### Get Pets Of An Owner
 
 `GET` `http://localhost:3030/owner/<Owner>`
 
-### Get owner of a pet
+### Get Owner Of A Pet
 
 `GET` `http://localhost:3030/find/<PetName>`
 
-### Get list of all owners
+### Get List Of All Owners
 
 `GET` `http://localhost:3030/all`
 
@@ -52,3 +52,24 @@ This project involves reading database and processing its data to perform variou
 
 1. Get All Pets
 ![](pic/1.Get-all-pets.png)
+
+2.Get A Single Pet
+![](pic/2.Get-a-single-pet.png)
+
+3.Create A New Pet
+![](pic/3.Create-a-new-pet.png)
+
+4.Update Existing Pet
+![](pic/4.Update-existing-pet.png)
+
+5.Delete A Pet
+![](pic/5.Delete-a-pet.png)
+
+6.Get Pets Of An Owner
+![](pic/6.Get-pets-of-an-owner.png)
+
+7.Get Owner Of A Pet
+![](pic/7.Get-owner-of-a-pet.png)
+
+8.Get List Of All Owners
+![](pic/8.Get-list-of-all-owners.png)
