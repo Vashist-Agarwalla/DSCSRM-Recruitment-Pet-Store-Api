@@ -46,3 +46,6 @@ This project involves reading database and processing its data to perform variou
 ### Get list of all owners
 
 `GET` `http://localhost:3030/all`
+
+
+## Example
